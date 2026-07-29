@@ -1,1 +1,1 @@
-export const API_BASE_URL = "https://ats-resume-analyzer-api.onrender.com";
+export const API_BASE_URL = "https://ats-resume-analyzer-c0o9.onrender.com";
